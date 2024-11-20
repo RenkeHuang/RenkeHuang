@@ -14,6 +14,4 @@
 - While Python is my mother tongue, I am passionate about exploring low-level programming languages to enhance the performance of Python-based applications.
 
 
-<div align="center">
-    <img src="languages.png" alt="Tech stack" width="400" height="240">
-</div>
+
