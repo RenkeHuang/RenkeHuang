@@ -15,5 +15,5 @@
 
 
 <div align="center">
-    <img src="languages.png" alt="Tech stack" width="500" height="300">
+    <img src="languages.png" alt="Tech stack" width="450" height="270">
 </div>
